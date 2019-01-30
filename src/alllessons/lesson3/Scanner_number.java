@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class Scanner_number {
     public static void main(String[] args) {
+
+        //sjf
         int i = 0;
         int x = 50;
         int maxValue = 101;
